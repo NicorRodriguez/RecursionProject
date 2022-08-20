@@ -1,9 +1,7 @@
 # Recursion Project
----
 This is a little script made in python and golang, the main goal of this project was to show off the difference in preformance between go and python when doing recursions.
 
 ## Code
----
 ### Python
 ```python
 def suc(n):
@@ -36,7 +34,6 @@ func suc(n int) int {
 As apreciated both codes are identical and use recursion to calculate the recursion. Of course there are better ways to solve this problem but it was out of the scope of the project.
 
 ## Testing
----
 The problem that the algorithm is solving is to find the number that needs the largest sequence of numbers in the algorithm to get to 1.
 
 Example:
