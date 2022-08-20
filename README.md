@@ -52,7 +52,7 @@ Around **20x** times faster when running in golang.
 
 ## Run it on replit
 
-Go to replit webpage (https://replit.com) and create a new project and choose the programming languaje (**Python** or **Go**), paste the content of the $Main.py$ for **Python** or $Main.go$ for **Golang**, then click on run and wait until the script finishes executing.
+Go to replit webpage (https://replit.com), create a new project and choose the programming languaje (**Python** or **Go**), paste the content of the $Main.py$ file for **Python** or $Main.go$ file for **Golang**, then click on run and wait until the script finishes executing.
 
 ## Run it yourself!
 
