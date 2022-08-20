@@ -31,7 +31,7 @@ func suc(n int) int {
 }
 ```
 
-As apreciated both codes are identical and use recursion to calculate the recursion. Of course there are better ways to solve this problem but it was out of the scope of the project.
+As apreciated both codes are identical and use recursion to calculate the sucesion. Of course there are better ways to solve this problem but it was out of the scope of the project.
 
 ## Testing
 The problem that the algorithm is solving is to find the number that needs the largest sequence of numbers in the algorithm to get to 1.
