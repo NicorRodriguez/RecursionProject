@@ -1,5 +1,5 @@
 # Recursion Project
-This is a little script made in python and golang, the main goal of this project was to show off the difference in preformance between go and python when doing recursions.
+This is a little script made in python and golang, the main goal of this project was to show off the difference in preformance between go and python when executing recursions.
 
 ## Code
 ### Python
@@ -41,7 +41,7 @@ Example:
     Input: 13
     Sequence: 13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1
 
-In order to test the performance of the programming languaje, we are testing to calculate the sequence of numbers from **1** to **1000000** and create two timestamps, the first one at the beginning of the script and the second one once the script has finished, with this timestamps we calculated the difference in time and determined how long the script was running for.
+In order to test the performance of the programming languaje, we are calculating the sequence of numbers from **1** to **1000000** and create two timestamps, the first one at the beginning of the script and the second one once the script has finished, with this timestamps we calculated the difference in time and determined how long the script was running for.
 
     Python: 20033.763ms ~ 20s
     Golang: 846.631416ms ~ 0.8s
