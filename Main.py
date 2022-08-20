@@ -25,6 +25,6 @@ for i in range(2, 1000000):
 t2 = datetime.now()
 delta = t2 - t1
 
-print(f"Time difference is {delta.total_seconds()} seconds")
-print(total)
-print(max)
+print(delta.total_seconds()*1000, "ms")
+print("Cantidad de digitos:", total)
+print("Numero en cuestion::", max)

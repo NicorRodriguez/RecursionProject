@@ -50,3 +50,30 @@ Around **20x** times faster when running in golang.
 
 > :warning: This test was made on my personal computer therefore the    results may vary in your environment.
 
+## Run it on replit
+
+Go to replit webpage (replit.com) and create a new project and choose the programming languaje (**Python** or **Go**), paste the content of the $Main.py$ for **Python** or $Main.go$ for **Golang**, then click on run and wait until the script finishes executing.
+
+## Run it yourself!
+
+First of all yo need to clone this repository:
+
+```bash
+git clone https://github.com/NicorRodriguez/RecursionProject.git
+cd RecursionProject
+```
+
+In order to run the **Python** script you need to have **Python** installed on your computer (you can download it from their official wepage https://www.python.org/)
+
+Once python is installed you can run the following command on your terminal:
+
+```bash
+python3 Main.py
+```
+
+Also to run the **Golang** script you need to install the binary (you can download it from https://go.dev/) and run:
+
+```bash
+go build Main.go
+./Main
+```
